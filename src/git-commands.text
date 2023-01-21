@@ -1,0 +1,23 @@
+git git init -initilize current folder in git repository
+
+git status - current git status
+
+git add . -
+
+git commit -m "first commit" -
+
+git log --oneline
+
+git log 
+
+git checkout 56c0f64 index.html
+
+git reset HEAD index.html
+
+git checkout -- index.html
+
+2nd video
+
+git remote add origin https://github.com/shubhamkamble20/git-test
+
+git push -u origin master
